@@ -1,5 +1,5 @@
 # Motion_Detector
-Detectd the real time motion(Open CV)
+Detects the real time motion(Open CV)
 
 _______________________________________________________________________________________________________________________________
 
@@ -16,7 +16,7 @@ ________________________________________________________________________________
 * One important feature of this algorithm is that it selects the appropriate number of gaussian distribution for each pixel.
 ______________________________________________________________________________________________________________________________
 
-
+# This project includes............
 * Motion detction in Open CV works by substracting the background from the image.
 * For this two function BackgroundSubtractorMOG2() and BackgroundSubtractorMOG() 
   either of themcan be used.
